@@ -9,7 +9,7 @@ when-day     : Tue
 when-time    : AM-1
 location     : Villa-1
 organizers   : Brian Glas
-participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom
+participants : Sebastien Deleersnyder, Bart De Win, Mateo Martinez, Yan Kravchenko, Viktor Lindstrom, Daniel Kefer
 ---
 
 SAMM core model update sessions.
